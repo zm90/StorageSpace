@@ -1,0 +1,1989 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1280*720]" group-title="未分类",CCTV1[1280*720]
+http://111.40.196.9/PLTV/88888888/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1280*720]" group-title="未分类",CCTV1[1280*720]
+http://111.40.196.27/PLTV/88888888/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://182.151.211.171:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://183.207.249.9/PLTV/3/224/3221225530/1.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1280*720]" group-title="未分类",CCTV1[1280*720]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225859/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.65.181/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1280*720]" group-title="未分类",CCTV1[1280*720]
+http://111.13.42.238/PLTV/88888888/224/3221226564/1.m3u8?icpid=88888888&from=1&hms_devid=461
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225859/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.32.103:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.32.103:6610/270000001111/1110000151/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1280*720]" group-title="未分类",CCTV1[1280*720]
+http://111.13.42.238/PLTV/88888888/224/3221226563/1.m3u8?icpid=88888888&from=1&hms_devid=461
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.67.99/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225918/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.32.101:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.67.98/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://115.182.96.25/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?p=GITV&area=AH_CMCC
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225918/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1280*720]" group-title="未分类",CCTV1[1280*720]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225630/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221225751/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://39.134.32.102:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225762/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://183.196.25.171:808/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://39.136.48.6:8089/PLTV/88888888/224/3221225751/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225918/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://120.253.104.16:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1[1920*1080]" group-title="未分类",CCTV1[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225751/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://39.134.32.108:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://120.253.104.16:808/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1280*720]" group-title="未分类",CCTV3[1280*720]
+http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2FHD[1920*1080]" group-title="未分类",CCTV2FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2HD[1920*1080]" group-title="未分类",CCTV2HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://39.134.115.163:8080/PLTV-/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://182.151.211.171:808/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://183.207.249.9/PLTV/3/224/3221225588/1.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2FHD[1920*1080]" group-title="未分类",CCTV2FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2HD[1280*720]" group-title="未分类",CCTV2HD[1280*720]
+http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2FHD[1920*1080]" group-title="未分类",CCTV2FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2[1920*1080]" group-title="未分类",CCTV2[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSessionId=OTT16157620200202041417014267&fmt=ts2hls&u=45768392
+#EXTINF:-1 tvg-name="CCTV2FHD[1920*1080]" group-title="未分类",CCTV2FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://182.151.211.171:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1280*720]" group-title="未分类",CCTV3[1280*720]
+http://111.40.196.29/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3HD[1920*1080]" group-title="未分类",CCTV3HD[1920*1080]
+http://39.134.65.175/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3HD[1920*1080]" group-title="未分类",CCTV3HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://182.151.211.171:808/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3HD[1920*1080]" group-title="未分类",CCTV3HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3HD[1920*1080]" group-title="未分类",CCTV3HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3HD[1920*1080]" group-title="未分类",CCTV3HD[1920*1080]
+http://39.134.65.173/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://183.207.249.35/PLTV/4/224/3221227295/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://111.20.33.93/PLTV/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3[1920*1080]" group-title="未分类",CCTV3[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3HD[1920*1080]" group-title="未分类",CCTV3HD[1920*1080]
+http://39.134.65.179/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3FHD[1920*1080]" group-title="未分类",CCTV3FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3HD[1920*1080]" group-title="未分类",CCTV3HD[1920*1080]
+http://39.134.65.183/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4美洲[1920*1080]" group-title="未分类",CCTV4美洲[1920*1080]
+http://39.136.48.6:8089/PLTV/88888888/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.134.65.179/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4FHD[1920*1080]" group-title="未分类",CCTV4FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.136.48.6:8089/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4欧洲[1920*1080]" group-title="未分类",CCTV4欧洲[1920*1080]
+http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1280*720]" group-title="未分类",CCTV5[1280*720]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225755/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.134.115.163:8080/PLTV-/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.134.67.99/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K[3840*2160]" group-title="未分类",CCTV4K[3840*2160]
+https://v.bjiptv.eu.org/4.php
+#EXTINF:-1 tvg-name="CCTV4HD[1920*1080]" group-title="未分类",CCTV4HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://183.196.25.171:808/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1280*720]" group-title="未分类",CCTV5[1280*720]
+http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV4美洲[1920*1080]" group-title="未分类",CCTV4美洲[1920*1080]
+http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="CCTV4K[3840*2160]" group-title="未分类",CCTV4K[3840*2160]
+http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV4FHD[1920*1080]" group-title="未分类",CCTV4FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4[1920*1080]" group-title="未分类",CCTV4[1920*1080]
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K[3840*2160]" group-title="未分类",CCTV4K[3840*2160]
+https://p.ggiptv.com/v/4k.m3u8
+#EXTINF:-1 tvg-name="CCTV4FHD[1920*1080]" group-title="未分类",CCTV4FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://182.151.211.171:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1280*720]" group-title="未分类",CCTV5[1280*720]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1280*720]" group-title="未分类",CCTV5[1280*720]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225752/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://182.151.211.171:808/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1280*720]" group-title="未分类",CCTV5[1280*720]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225756/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1280*720]" group-title="未分类",CCTV5[1280*720]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.136.48.7:8089/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://120.253.104.16:808/hls/123/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1280*720]" group-title="未分类",CCTV5[1280*720]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225752/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.134.65.173/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://183.196.25.171:808/hls/61/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.136.48.6:8089/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5[1920*1080]" group-title="未分类",CCTV5[1920*1080]
+http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+FHD[1920*1080]" group-title="未分类",CCTV5+FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.134.32.102:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://120.253.104.16:808/hls/101/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225781/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+FHD[1920*1080]" group-title="未分类",CCTV5+FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225781/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.134.32.101:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV5+FHD[1920*1080]" group-title="未分类",CCTV5+FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/15903942991.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225781/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221225781/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+HD[1920*1080]" group-title="未分类",CCTV5+HD[1920*1080]
+http://117.148.179.136/TVOD/88888888/224/3221231459/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV5+[1280*720]" group-title="未分类",CCTV5+[1280*720]
+http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+FHD[1920*1080]" group-title="未分类",CCTV5+FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/ndex.m3u8
+#EXTINF:-1 tvg-name="CCTV5+FHD[1920*1080]" group-title="未分类",CCTV5+FHD[1920*1080]
+http://183.207.249.35:80/PLTV/4/224/3221227381/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCL7uMeWLB08aeJbatS38YYbbsmc7JeFjK09jPSHLlcq7Q%3D%3D%3A20180401115202%2C18851042983%2C112.25.46.66%2C20180401115202%2CG_CCTV5PLUS-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=4344
+#EXTINF:-1 tvg-name="CCTV5+[1920*1080]" group-title="未分类",CCTV5+[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5FHD[1920*1080]" group-title="未分类",CCTV5FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+HD[1920*1080]" group-title="未分类",CCTV5+HD[1920*1080]
+http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1920*1080]" group-title="未分类",CCTV5HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225754/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+HD[1920*1080]" group-title="未分类",CCTV5+HD[1920*1080]
+http://39.134.65.175/PLTV/88888888/224/3221225507/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225756/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+HD[1920*1080]" group-title="未分类",CCTV5+HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1
+#EXTINF:-1 tvg-name="CCTV5FHD[1920*1080]" group-title="未分类",CCTV5FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5FHD[1920*1080]" group-title="未分类",CCTV5FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225752/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+HD[1920*1080]" group-title="未分类",CCTV5+HD[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+FHD[1920*1080]" group-title="未分类",CCTV5+FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+FHD[1920*1080]" group-title="未分类",CCTV5+FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225751/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+HD[1920*1080]" group-title="未分类",CCTV5+HD[1920*1080]
+http://39.134.65.181/PLTV/88888888/224/3221225507/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5+HD[1920*1080]" group-title="未分类",CCTV5+HD[1920*1080]
+http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225755/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+FHD[1920*1080]" group-title="未分类",CCTV5+FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225755/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+HD[1280*720]" group-title="未分类",CCTV5+HD[1280*720]
+http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225752/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5FHD[1920*1080]" group-title="未分类",CCTV5FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225752/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+HD[1920*1080]" group-title="未分类",CCTV5+HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://39.134.66.2/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6FHD[1920*1080]" group-title="未分类",CCTV6FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[720*540]" group-title="未分类",CCTV6[720*540]
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225754/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[974*540]" group-title="未分类",CCTV6[974*540]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://120.253.104.16:808/hls/125/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://182.151.211.171:808/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225756/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6FHD[1920*1080]" group-title="未分类",CCTV6FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225756/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6HD[1920*1080]" group-title="未分类",CCTV6HD[1920*1080]
+http://39.134.65.175/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-name="CCTV6[1920*1080]" group-title="未分类",CCTV6[1920*1080]
+http://111.20.33.93/PLTV/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225752/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5HD[1280*720]" group-title="未分类",CCTV5HD[1280*720]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6FHD[1920*1080]" group-title="未分类",CCTV6FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://183.207.249.15/PLTV/3/224/3221225546/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6HD[1920*1080]" group-title="未分类",CCTV6HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://125.40.191.58:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="CCTV6FHD[1920*1080]" group-title="未分类",CCTV6FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6FHD[1920*1080]" group-title="未分类",CCTV6FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6HD[1920*1080]" group-title="未分类",CCTV6HD[1920*1080]
+http://39.134.65.183/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6HD[1920*1080]" group-title="未分类",CCTV6HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6FHD[1920*1080]" group-title="未分类",CCTV6FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://39.134.67.99/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6HD[1920*1080]" group-title="未分类",CCTV6HD[1920*1080]
+http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-name="CCTV6FHD[1920*1080]" group-title="未分类",CCTV6FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://183.196.25.171:808/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6HD[1920*1080]" group-title="未分类",CCTV6HD[1920*1080]
+http://39.134.65.177/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-name="CCTV6FHD[1920*1080]" group-title="未分类",CCTV6FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1
+#EXTINF:-1 tvg-name="CCTV7[1920*1080]" group-title="未分类",CCTV7[1920*1080]
+http://39.134.115.163:8080/PLTV-/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7HD[1920*1080]" group-title="未分类",CCTV7HD[1920*1080]
+http://39.134.65.183/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://183.207.249.9/PLTV/3/224/3221225546/1.m3u8
+#EXTINF:-1 tvg-name="CCTV7HD[1920*1080]" group-title="未分类",CCTV7HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1920*1080]" group-title="未分类",CCTV8[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1920*1080]" group-title="未分类",CCTV8[1920*1080]
+http://125.40.191.58:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1920*1080]" group-title="未分类",CCTV8[1920*1080]
+http://183.207.248.12/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1920*1080]" group-title="未分类",CCTV8[1920*1080]
+http://182.151.211.171:808/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://39.134.66.2/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8FHD[1920*1080]" group-title="未分类",CCTV8FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1280*720]" group-title="未分类",CCTV8[1280*720]
+http://111.40.196.9/PLTV/88888888/224/3221225592/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7HD[1920*1080]" group-title="未分类",CCTV7HD[1920*1080]
+http://39.134.65.164/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1920*1080]" group-title="未分类",CCTV8[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1920*1080]" group-title="未分类",CCTV8[1920*1080]
+http://183.207.249.36/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/ndex.m3u8
+#EXTINF:-1 tvg-name="CCTV7FHD[1920*1080]" group-title="未分类",CCTV7FHD[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1920*1080]" group-title="未分类",CCTV8[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1920*1080]" group-title="未分类",CCTV8[1920*1080]
+http://120.253.104.16:808/hls/124/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8[720*540]" group-title="未分类",CCTV8[720*540]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1920*1080]" group-title="未分类",CCTV8[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7HD[1920*1080]" group-title="未分类",CCTV7HD[1920*1080]
+http://39.134.65.179/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 tvg-name="CCTV7HD[1920*1080]" group-title="未分类",CCTV7HD[1920*1080]
+http://39.134.65.173/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 tvg-name="CCTV8FHD[1920*1080]" group-title="未分类",CCTV8FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8HD[1920*1080]" group-title="未分类",CCTV8HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1
+#EXTINF:-1 tvg-name="CCTV8FHD[1920*1080]" group-title="未分类",CCTV8FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8FHD[1920*1080]" group-title="未分类",CCTV8FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8HD[1920*1080]" group-title="未分类",CCTV8HD[1920*1080]
+http://39.134.65.177/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://120.253.104.16:808/hls/130/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8HD[1920*1080]" group-title="未分类",CCTV8HD[1920*1080]
+http://39.134.65.175/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 tvg-name="CCTV8FHD[1920*1080]" group-title="未分类",CCTV8FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8HD[1920*1080]" group-title="未分类",CCTV8HD[1920*1080]
+http://39.134.65.183/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 tvg-name="CCTV8K[1920*1080]" group-title="未分类",CCTV8K[1920*1080]
+http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8FHD[1920*1080]" group-title="未分类",CCTV8FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://183.207.249.6/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://183.207.249.13/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8FHD[1920*1080]" group-title="未分类",CCTV8FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://183.207.249.14/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8FHD[1920*1080]" group-title="未分类",CCTV8FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8HD[1920*1080]" group-title="未分类",CCTV8HD[1920*1080]
+http://39.134.65.173/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 tvg-name="CCTV8[1920*1080]" group-title="未分类",CCTV8[1920*1080]
+http://39.134.115.163:8080/PLTV-/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://39.134.115.163:8080/PLTV-/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8HD[1920*1080]" group-title="未分类",CCTV8HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10HD[1920*1080]" group-title="未分类",CCTV10HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://183.207.249.6/PLTV/3/224/3221225532/1.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1280*720]" group-title="未分类",CCTV9[1280*720]
+http://111.40.196.35:80/wh7f454c46tw311521991_332404369/PLTV/88888888/224/3221225502/index.m3u8?icpid=88888888&RTS=1637809933&from=1&hms_devid=83
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1920*1080]" group-title="未分类",CCTV11[1920*1080]
+http://183.196.25.171:808/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1920*1080]" group-title="未分类",CCTV11[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1920*1080]" group-title="未分类",CCTV11[1920*1080]
+http://39.136.48.10:8089/PLTV/88888888/224/3221226407/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1
+#EXTINF:-1 tvg-name="CCTV11[1280*720]" group-title="未分类",CCTV11[1280*720]
+http://39.134.66.2/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1920*1080]" group-title="未分类",CCTV11[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://39.134.67.98/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1280*720]" group-title="未分类",CCTV11[1280*720]
+http://39.134.66.4/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://183.196.25.171:808/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://182.151.211.171:808/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1920*1080]" group-title="未分类",CCTV11[1920*1080]
+http://182.151.211.171:808/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://39.134.67.99/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1920*1080]" group-title="未分类",CCTV11[1920*1080]
+http://39.136.48.11:8089/PLTV/88888888/224/3221226407/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1280*720]" group-title="未分类",CCTV9[1280*720]
+http://111.40.196.34/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9[1920*1080]" group-title="未分类",CCTV9[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 tvg-name="CCTV11HD[1280*720]" group-title="未分类",CCTV11HD[1280*720]
+http://39.134.65.175/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 tvg-name="CCTV11HD[1280*720]" group-title="未分类",CCTV11HD[1280*720]
+http://39.134.65.142/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://183.196.25.171:808/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11FHD[1920*1080]" group-title="未分类",CCTV11FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12FHD[1920*1080]" group-title="未分类",CCTV12FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11HD[1280*720]" group-title="未分类",CCTV11HD[1280*720]
+http://39.134.65.183/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11HD[1920*1080]" group-title="未分类",CCTV11HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225763/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://183.207.249.8/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11HD[1280*720]" group-title="未分类",CCTV11HD[1280*720]
+http://39.134.65.141/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225763/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1920*1080]" group-title="未分类",CCTV11[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://39.134.67.99/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11HD[1280*720]" group-title="未分类",CCTV11HD[1280*720]
+http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 tvg-name="CCTV11HD[1280*720]" group-title="未分类",CCTV11HD[1280*720]
+http://39.134.65.179/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221225763/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://183.207.249.7/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11FHD[1920*1080]" group-title="未分类",CCTV11FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1920*1080]" group-title="未分类",CCTV11[1920*1080]
+http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1
+#EXTINF:-1 tvg-name="CCTV13[1280*720]" group-title="未分类",CCTV13[1280*720]
+http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1
+#EXTINF:-1 tvg-name="CCTV13[1280*720]" group-title="未分类",CCTV13[1280*720]
+http://39.134.67.99/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12FHD[1920*1080]" group-title="未分类",CCTV12FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12FHD[1920*1080]" group-title="未分类",CCTV12FHD[1920*1080]
+http://39.134.66.2/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://39.136.48.6:8089/PLTV/88888888/224/3221226328/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12FHD[1920*1080]" group-title="未分类",CCTV12FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12FHD[1920*1080]" group-title="未分类",CCTV12FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12HD[1920*1080]" group-title="未分类",CCTV12HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1
+#EXTINF:-1 tvg-name="CCTV12FHD[1920*1080]" group-title="未分类",CCTV12FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12FHD[1920*1080]" group-title="未分类",CCTV12FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12HD[1920*1080]" group-title="未分类",CCTV12HD[1920*1080]
+http://39.134.65.166/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 tvg-name="CCTV12HD[1920*1080]" group-title="未分类",CCTV12HD[1920*1080]
+http://39.134.65.164/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 tvg-name="CCTV12HD[1920*1080]" group-title="未分类",CCTV12HD[1920*1080]
+http://39.134.65.179/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 tvg-name="CCTV12FHD[1920*1080]" group-title="未分类",CCTV12FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12HD[1920*1080]" group-title="未分类",CCTV12HD[1920*1080]
+http://39.134.65.181/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 tvg-name="CCTV12HD[1920*1080]" group-title="未分类",CCTV12HD[1920*1080]
+http://39.134.65.173/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225763/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12FHD[1920*1080]" group-title="未分类",CCTV12FHD[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12[1920*1080]" group-title="未分类",CCTV12[1920*1080]
+http://120.253.104.16:808/hls/135/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221226328/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://39.136.48.11:8089/PLTV/88888888/224/3221226328/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13FHD[1920*1080]" group-title="未分类",CCTV13FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13HD[1280*720]" group-title="未分类",CCTV13HD[1280*720]
+http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 tvg-name="CCTV14[1920*1080]" group-title="未分类",CCTV14[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1280*720]" group-title="未分类",CCTV13[1280*720]
+http://39.134.65.173/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 tvg-name="CCTV14[1920*1080]" group-title="未分类",CCTV14[1920*1080]
+http://183.196.25.171:808/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://183.207.249.11/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://39.136.48.10:8089/PLTV/88888888/224/3221226328/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221226328/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13HD[1280*720]" group-title="未分类",CCTV13HD[1280*720]
+http://39.134.65.183/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://183.207.249.36:80/PLTV/4/224/3221227387/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=188510429838C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlz8gqXYszxJXTww4r47BQdS0%2BwWipdMTdABh
+#EXTINF:-1 tvg-name="CCTV14[1280*720]" group-title="未分类",CCTV14[1280*720]
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV13HD[1280*720]" group-title="未分类",CCTV13HD[1280*720]
+http://39.134.65.177/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 tvg-name="CCTV14[1920*1080]" group-title="未分类",CCTV14[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13HD[1280*720]" group-title="未分类",CCTV13HD[1280*720]
+http://39.134.65.141/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8$1080P
+#EXTINF:-1 tvg-name="CCTV13HD[1280*720]" group-title="未分类",CCTV13HD[1280*720]
+http://39.134.65.142/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13HD[720*1280]" group-title="未分类",CCTV13HD[720*1280]
+http://hw-m-l.cztv.com/channels/lantian/channel16/720p.m3u8
+#EXTINF:-1 tvg-name="CCTV13[1920*1080]" group-title="未分类",CCTV13[1920*1080]
+http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13FHD[1920*1080]" group-title="未分类",CCTV13FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13FHD[1920*1080]" group-title="未分类",CCTV13FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14[1920*1080]" group-title="未分类",CCTV14[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13FHD[1920*1080]" group-title="未分类",CCTV13FHD[1920*1080]
+http://183.207.249.36:80/PLTV/4/224/3221227387/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlz8gqXYszxJXTww4r47BQdS0%2BwWipdMTdABhAgmyZ6eCJfP0Ac3td%2FOmE852rVD7h16CRgd6UpNLMSQENGhXOBYw%3D%3D%3A20180401121342%2C18851042983%2C112.25.46.67%2C20180401121342%2CG_CCTV13-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=4364
+#EXTINF:-1 tvg-name="CCTV14[1920*1080]" group-title="未分类",CCTV14[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://183.196.25.171:808/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14FHD[1920*1080]" group-title="未分类",CCTV14FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14FHD[1920*1080]" group-title="未分类",CCTV14FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14FHD[1920*1080]" group-title="未分类",CCTV14FHD[1920*1080]
+http://39.134.66.2/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14FHD[1920*1080]" group-title="未分类",CCTV14FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14FHD[1920*1080]" group-title="未分类",CCTV14FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1280*720]" group-title="未分类",CCTV15[1280*720]
+http://39.134.66.4/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://182.151.211.171:808/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14FHD[1920*1080]" group-title="未分类",CCTV14FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://39.136.48.10:8089/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14FHD[1920*1080]" group-title="未分类",CCTV14FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14HD[1920*1080]" group-title="未分类",CCTV14HD[1920*1080]
+http://39.134.65.183/PLTV/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1280*720]" group-title="未分类",CCTV15[1280*720]
+http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14HD[1920*1080]" group-title="未分类",CCTV14HD[1920*1080]
+http://39.134.65.164/PLTV/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://39.134.116.30/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14FHD[1920*1080]" group-title="未分类",CCTV14FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 tvg-name="CCTV14HD[1920*1080]" group-title="未分类",CCTV14HD[1920*1080]
+http://39.134.65.179/PLTV/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://39.136.48.11:8089/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14HD[1920*1080]" group-title="未分类",CCTV14HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15FHD[1920*1080]" group-title="未分类",CCTV15FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15FHD[1920*1080]" group-title="未分类",CCTV15FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15FHD[1920*1080]" group-title="未分类",CCTV15FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16[1920*1080]" group-title="未分类",CCTV16[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15HD[1280*720]" group-title="未分类",CCTV15HD[1280*720]
+http://39.134.65.142/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16[1920*1080]" group-title="未分类",CCTV16[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15HD[1280*720]" group-title="未分类",CCTV15HD[1280*720]
+http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://183.196.25.171:808/hls/93/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://39.134.32.102:6610/270000001111/1110000391/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV16[1920*1080]" group-title="未分类",CCTV16[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16[1920*1080]" group-title="未分类",CCTV16[1920*1080]
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV16[1920*1080]" group-title="未分类",CCTV16[1920*1080]
+http://182.151.211.171:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15[1920*1080]" group-title="未分类",CCTV15[1920*1080]
+http://39.134.115.163:8080/PLTV-/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16[3840*2160]" group-title="未分类",CCTV16[3840*2160]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1
+#EXTINF:-1 tvg-name="CCTV15HD[1920*1080]" group-title="未分类",CCTV15HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16[1920*1080]" group-title="未分类",CCTV16[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16[1920*1080]" group-title="未分类",CCTV16[1920*1080]
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15HD[1280*720]" group-title="未分类",CCTV15HD[1280*720]
+http://39.134.65.183/PLTV/88888888/224/3221225513/1.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221226093/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221226093/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17FHD[1920*1080]" group-title="未分类",CCTV17FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-name="CETV1[1920*1080]" group-title="未分类",CETV1[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221226252/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17FHD[1920*1080]" group-title="未分类",CCTV17FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225907/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17FHD[1920*1080]" group-title="未分类",CCTV17FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17HD[1920*1080]" group-title="未分类",CCTV17HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-name="CETV1[1920*1080]" group-title="未分类",CETV1[1920*1080]
+http://183.196.25.171:808/hls/85/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17HD[1920*1080]" group-title="未分类",CCTV17HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://39.134.32.101:6610/270000001111/1110000391/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV17HD[1920*1080]" group-title="未分类",CCTV17HD[1920*1080]
+http://39.134.65.183/PLTV/88888888/224/3221225708/1.m3u8
+#EXTINF:-1 tvg-name="CCTV17HD[1920*1080]" group-title="未分类",CCTV17HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.m3u8
+#EXTINF:-1 tvg-name="CETV1[1920*1080]" group-title="未分类",CETV1[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1
+#EXTINF:-1 tvg-name="CCTV17FHD[1920*1080]" group-title="未分类",CCTV17FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-name="CETV2[859*480]" group-title="未分类",CETV2[859*480]
+http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://182.151.211.171:808/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="CETV1[1920*1080]" group-title="未分类",CETV1[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221226252/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://39.134.32.103:6610/270000001111/1110000391/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV17[1920*1080]" group-title="未分类",CCTV17[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221226093/index.m3u8
+#EXTINF:-1 tvg-name="CETV2[859*480]" group-title="未分类",CETV2[859*480]
+http://117.148.179.162/TVOD/88888888/224/3221231607/index.m3u8
+#EXTINF:-1 tvg-name="CETV1[1920*1080]" group-title="未分类",CETV1[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1
+#EXTINF:-1 tvg-name="CHC动作电影FHD[1920*1080]" group-title="未分类",CHC动作电影FHD[1920*1080]
+http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影[1920*1080]" group-title="未分类",CHC动作电影[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+#EXTINF:-1 tvg-name="CHC动作电影FHD[1920*1080]" group-title="未分类",CHC动作电影FHD[1920*1080]
+http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="CETV4[1047*576]" group-title="未分类",CETV4[1047*576]
+http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影FHD[1920*1080]" group-title="未分类",CHC动作电影FHD[1920*1080]
+http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影[1920*1080]" group-title="未分类",CHC动作电影[1920*1080]
+http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影HD[859*480]" group-title="未分类",CHC动作电影HD[859*480]
+http://117.148.179.165/PLTV/88888888/224/3221231580/index.m3u8
+#EXTINF:-1 tvg-name="CETV4[1024*576]" group-title="未分类",CETV4[1024*576]
+http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院[1920*1080]" group-title="未分类",CHC家庭影院[1920*1080]
+http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影[859*480]" group-title="未分类",CHC动作电影[859*480]
+http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院[1920*1080]" group-title="未分类",CHC家庭影院[1920*1080]
+http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影[859*480]" group-title="未分类",CHC动作电影[859*480]
+http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8
+#EXTINF:-1 tvg-name="CETV3[859*480]" group-title="未分类",CETV3[859*480]
+http://117.148.179.136/TVOD/88888888/224/3221231543/index.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影[1920*1080]" group-title="未分类",CHC高清电影[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+#EXTINF:-1 tvg-name="CETV1[859*480]" group-title="未分类",CETV1[859*480]
+http://117.148.179.149/PLTV/88888888/224/3221231552/index.m3u8
+#EXTINF:-1 tvg-name="CETV3[859*480]" group-title="未分类",CETV3[859*480]
+http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影[1920*1080]" group-title="未分类",CHC高清电影[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+#EXTINF:-1 tvg-name="CHC动作电影HD[1920*1080]" group-title="未分类",CHC动作电影HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+#EXTINF:-1 tvg-name="CETV4[859*480]" group-title="未分类",CETV4[859*480]
+http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
+#EXTINF:-1 tvg-name="CETV1HD[1920*1080]" group-title="未分类",CETV1HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1
+#EXTINF:-1 tvg-name="CH1-shd[1920*1080]" group-title="未分类",CH1-shd[1920*1080]
+https://devlivepull.migucloud.com/live/01YCQY7M_C0.flv
+#EXTINF:-1 tvg-name="CHC家庭影院[1920*1080]" group-title="未分类",CHC家庭影院[1920*1080]
+http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影[1920*1080]" group-title="未分类",CHC动作电影[1920*1080]
+http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院[1920*1080]" group-title="未分类",CHC家庭影院[1920*1080]
+http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9HD[1920*1080]" group-title="未分类",CCTV9HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影[1920*1080]" group-title="未分类",CHC动作电影[1920*1080]
+http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://182.151.211.171:808/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/ndex.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.134.66.2/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9HD[1920*1080]" group-title="未分类",CCTV9HD[1920*1080]
+http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院[1920*1080]" group-title="未分类",CHC家庭影院[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9HD[1920*1080]" group-title="未分类",CCTV9HD[1920*1080]
+http://39.134.65.183/PLTV/88888888/224/3221225676/1.m3u8
+#EXTINF:-1 tvg-name="CHC高清電影[1920*1080]" group-title="未分类",CHC高清電影[1920*1080]
+http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院[1920*1080]" group-title="未分类",CHC家庭影院[1920*1080]
+http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9HD[1920*1080]" group-title="未分类",CCTV9HD[1920*1080]
+http://39.134.65.179/PLTV/88888888/224/3221225676/1.m3u8
+#EXTINF:-1 tvg-name="CCTV9HD[1920*1080]" group-title="未分类",CCTV9HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://39.134.65.183/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 tvg-name="CCTV9FHD[1920*1080]" group-title="未分类",CCTV9FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://183.207.249.7/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://120.253.104.16:808/hls/134/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10FHD[1920*1080]" group-title="未分类",CCTV10FHD[1920*1080]
+http://39.134.66.2/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10FHD[1920*1080]" group-title="未分类",CCTV10FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://39.136.48.11:8089/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10FHD[1920*1080]" group-title="未分类",CCTV10FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://183.207.249.34:80/PLTV/4/224/3221227317/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=188510429838C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlz8gqXYszxJXTww4r47BQdS0%2BwWipdMTdABh
+#EXTINF:-1 tvg-name="CCTV10FHD[1920*1080]" group-title="未分类",CCTV10FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10FHD[1920*1080]" group-title="未分类",CCTV10FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10FHD[1920*1080]" group-title="未分类",CCTV10FHD[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10HD[1920*1080]" group-title="未分类",CCTV10HD[1920*1080]
+http://39.134.65.179/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10FHD[1920*1080]" group-title="未分类",CCTV10FHD[1920*1080]
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10FHD[1920*1080]" group-title="未分类",CCTV10FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://39.136.48.10:8089/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://39.134.65.166/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10HD[1920*1080]" group-title="未分类",CCTV10HD[1920*1080]
+http://39.134.65.164/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 tvg-name="CCTV10FHD[1920*1080]" group-title="未分类",CCTV10FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10[1920*1080]" group-title="未分类",CCTV10[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10HD[1920*1080]" group-title="未分类",CCTV10HD[1920*1080]
+http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1920*1080]" group-title="未分类",CCTV11[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11[1920*1080]" group-title="未分类",CCTV11[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10HD[1920*1080]" group-title="未分类",CCTV10HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视FHD[1920*1080]" group-title="未分类",湖南卫视FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://117.148.179.148/TVOD/88888888/224/3221230824/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视FHD[1920*1080]" group-title="未分类",湖南卫视FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://117.148.179.135/TVOD/88888888/224/3221230206/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://111.20.33.93/PLTV/88888893/224/3221226211/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://117.148.179.172/TVOD/88888888/224/3221231729/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视FHD[1920*1080]" group-title="未分类",湖南卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://120.253.104.16:808/hls/107/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://183.196.25.171:808/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视FHD[1920*1080]" group-title="未分类",湖南卫视FHD[1920*1080]
+http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://sd.jilu8.cn/3221225767/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://182.151.211.171:808/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视FHD[1920*1080]" group-title="未分类",湖南卫视FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1280*720]" group-title="未分类",湖南卫视[1280*720]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1280*720]" group-title="未分类",湖南卫视[1280*720]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖南卫视[1920*1080]" group-title="未分类",湖南卫视[1920*1080]
+http://111.20.33.93/TVOD/88888893/224/3221226211/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视HD[1920*1080]" group-title="未分类",湖南卫视HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视FHD[1920*1080]" group-title="未分类",湖北卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视FHD[1920*1080]" group-title="未分类",湖南卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://111.20.33.93/TVOD/88888893/224/3221226194/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://111.20.33.93/TVOD/88888893/224/3221226206/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1280*720]" group-title="未分类",湖北卫视[1280*720]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hbwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://sd.jilu8.cn/3221225769/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视FHD[1920*1080]" group-title="未分类",湖南卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视HD[1920*1080]" group-title="未分类",湖南卫视HD[1920*1080]
+http://39.134.65.166/PLTV/88888888/224/3221225506/1.m3u8
+#EXTINF:-1 tvg-name="湖北卫视FHD[1920*1080]" group-title="未分类",湖北卫视FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视FHD[1920*1080]" group-title="未分类",湖北卫视FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视FHD[1920*1080]" group-title="未分类",湖南卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视FHD[1920*1080]" group-title="未分类",湖北卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1280*720]" group-title="未分类",湖北卫视[1280*720]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="湖北卫视FHD[1920*1080]" group-title="未分类",湖北卫视FHD[1920*1080]
+http://117.169.120.140:8080/live/hdhubeistv/.m3u8
+#EXTINF:-1 tvg-name="湖南卫视FHD[1920*1080]" group-title="未分类",湖南卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://111.20.33.93/PLTV/88888893/224/3221226206/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视FHD[1920*1080]" group-title="未分类",湖北卫视FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视FHD[1920*1080]" group-title="未分类",湖北卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://183.196.25.171:808/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视FHD[1920*1080]" group-title="未分类",湖南卫视FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://120.253.104.16:808/hls/105/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 tvg-name="北京卫视FHD[1920*1080]" group-title="未分类",北京卫视FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1920*1080]" group-title="未分类",东方卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视FHD[1920*1080]" group-title="未分类",北京卫视FHD[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视HD[1920*1080]" group-title="未分类",湖北卫视HD[1920*1080]
+http://39.134.65.164/PLTV/88888888/224/3221225569/1.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://183.196.25.171:808/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://39.136.48.7:8089/PLTV/88888888/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视FHD[1920*1080]" group-title="未分类",湖北卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1280*720]" group-title="未分类",北京卫视[1280*720]
+http://111.40.196.25/PLTV/88888888/224/3221225540/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1024*576]" group-title="未分类",北京卫视[1024*576]
+http://111.40.196.32/PLTV/88888888/224/3221225527/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视HD[1920*1080]" group-title="未分类",湖北卫视HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240135_1/playlist.m3u8?CONTENTID=00000110240135_1
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://182.151.211.171:808/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[720*540]" group-title="未分类",北京卫视[720*540]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视FHD[1920*1080]" group-title="未分类",北京卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视[1920*1080]" group-title="未分类",北京卫视[1920*1080]
+http://39.134.67.226/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视FHD[1920*1080]" group-title="未分类",东方卫视FHD[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1920*1080]" group-title="未分类",东方卫视[1920*1080]
+http://183.196.25.171:808/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1280*720]" group-title="未分类",东方卫视[1280*720]
+http://183.207.255.197/live/program/live/hddfws/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="东方卫视FHD[1920*1080]" group-title="未分类",东方卫视FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视HD[1920*1080]" group-title="未分类",北京卫视HD[1920*1080]
+http://39.134.65.164/PLTV/88888888/224/3221225678/1.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1920*1080]" group-title="未分类",东方卫视[1920*1080]
+http://39.135.138.59:18890/TVOD/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视HD[1920*1080]" group-title="未分类",东方卫视HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1
+#EXTINF:-1 tvg-name="东方卫视FHD[1920*1080]" group-title="未分类",东方卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视HD[1920*1080]" group-title="未分类",东方卫视HD[1920*1080]
+http://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8
+#EXTINF:-1 tvg-name="东方卫视FHD[1920*1080]" group-title="未分类",东方卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视HD[1920*1080]" group-title="未分类",北京卫视HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1
+#EXTINF:-1 tvg-name="东方卫视FHD[1920*1080]" group-title="未分类",东方卫视FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视FHD[1920*1080]" group-title="未分类",东方卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1280*720]" group-title="未分类",东方卫视[1280*720]
+http://111.40.196.35/PLTV/88888888/224/3221225509/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视FHD[1920*1080]" group-title="未分类",东方卫视FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视FHD[1920*1080]" group-title="未分类",北京卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1280*720]" group-title="未分类",东方卫视[1280*720]
+http://117.148.179.167/PLTV/88888888/224/3221231450/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视FHD[1920*1080]" group-title="未分类",东方卫视FHD[1920*1080]
+http://111.20.33.70/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视HD[1920*1080]" group-title="未分类",北京卫视HD[1920*1080]
+http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8
+#EXTINF:-1 tvg-name="东方卫视FHD[1920*1080]" group-title="未分类",东方卫视FHD[1920*1080]
+http://183.207.249.7:80/PLTV/4/224/3221227396/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCJfc3xl4peUxp6SPtEv191rq4z5xJUSPt7vbuG98peHgA%3D%3D%3A20180401122046%2C18851042983%2C112.25.7.202%2C20180401122046%2CG_DONGFANG-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=744
+#EXTINF:-1 tvg-name="北京卫视HD[1920*1080]" group-title="未分类",北京卫视HD[1920*1080]
+http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1920*1080]" group-title="未分类",东方卫视[1920*1080]
+http://182.151.211.171:808/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1280*720]" group-title="未分类",东方卫视[1280*720]
+http://111.40.196.30/PLTV/88888888/224/3221225509/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1920*1080]" group-title="未分类",东方卫视[1920*1080]
+http://183.207.249.7:80/PLTV/4/224/3221227396/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=188510429838C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCJfc3xl4peUxp6SPtEv191rq4z5xJUSPt7vbuG98peHgA%3D%3D%3A20180401122046%2C18851042983%2C112.25.7.202%2C20180401122046%2CG_DONGFANGHQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C1%2C%2C2%2C2000007279%2C2%2C3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=744
+#EXTINF:-1 tvg-name="东方卫视[1920*1080]" group-title="未分类",东方卫视[1920*1080]
+http://183.207.249.7:80/PLTV/4/224/3221227396/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABh
+#EXTINF:-1 tvg-name="东方卫视[1280*720]" group-title="未分类",东方卫视[1280*720]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1920*1080]" group-title="未分类",东方卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视[1920*1080]" group-title="未分类",东南卫视[1920*1080]
+http://183.196.25.171:808/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视[1920*1080]" group-title="未分类",兵团卫视[1920*1080]
+http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1920*1080]" group-title="未分类",东方卫视[1920*1080]
+http://39.136.48.6:8089/PLTV/88888888/224/3221226347/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视[1920*1080]" group-title="未分类",兵团卫视[1920*1080]
+http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w1179863659.m3u8
+#EXTINF:-1 tvg-name="东方卫视[1920*1080]" group-title="未分类",东方卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1026_1.m3u8
+#EXTINF:-1 tvg-name="东方卫视HD[1920*1080]" group-title="未分类",东方卫视HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视[1920*1080]" group-title="未分类",东南卫视[1920*1080]
+http://39.134.115.163:8080/TVOD/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/gdwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1280*720]" group-title="未分类",广东卫视[1280*720]
+http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视FHD[1920*1080]" group-title="未分类",东南卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视FHD[1920*1080]" group-title="未分类",东南卫视FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视FHD[1920*1080]" group-title="未分类",东南卫视FHD[1920*1080]
+http://117.169.120.140:8080/live/dongnanstv/.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1280*720]" group-title="未分类",广东卫视[1280*720]
+http://111.40.196.32/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视HD[1920*1080]" group-title="未分类",东方卫视HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视HD[1920*1080]" group-title="未分类",东方卫视HD[1920*1080]
+http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
+#EXTINF:-1 tvg-name="东方卫视HD[1920*1080]" group-title="未分类",东方卫视HD[1920*1080]
+http://39.134.65.164/PLTV/88888888/224/3221225672/1.m3u8
+#EXTINF:-1 tvg-name="东南卫视[1920*1080]" group-title="未分类",东南卫视[1920*1080]
+http://182.151.211.171:808/hls/61/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视HD[1920*1080]" group-title="未分类",东方卫视HD[1920*1080]
+http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8
+#EXTINF:-1 tvg-name="东南卫视FHD[1920*1080]" group-title="未分类",东南卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1280*720]" group-title="未分类",广东卫视[1280*720]
+http://cm.wshls.homecdn.com/live/1bd69.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221226213/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视[1280*720]" group-title="未分类",东南卫视[1280*720]
+http://111.40.196.28/PLTV/88888888/224/3221225583/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视[1920*1080]" group-title="未分类",贵州卫视[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221226213/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://120.253.104.16:808/hls/121/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视[1920*1080]" group-title="未分类",广西卫视[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://111.20.33.93/PLTV/88888893/224/3221226216/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://182.151.211.171:808/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://183.196.25.171:808/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://111.20.33.93/TVOD/88888893/224/3221226216/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视[1920*1080]" group-title="未分类",广西卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-name="广东卫视FHD[1920*1080]" group-title="未分类",广东卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视FHD[1920*1080]" group-title="未分类",广东卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视HD[1920*1080]" group-title="未分类",广东卫视HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1024*576]" group-title="未分类",广东卫视[1024*576]
+http://111.40.196.31/PLTV/88888888/224/3221225531/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1280*720]" group-title="未分类",广东卫视[1280*720]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="贵州卫视[1920*1080]" group-title="未分类",贵州卫视[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225777/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视[1920*1080]" group-title="未分类",广西卫视[1920*1080]
+http://117.169.120.233:8080/wh7f454c46tw1090982931_254241611/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1648856215&from=79102&ocs=2_39.135.142.6_8080&hms_devid=1273&online=1648856215&vqe=3
+#EXTINF:-1 tvg-name="甘肃卫视[1920*1080]" group-title="未分类",甘肃卫视[1920*1080]
+http://39.134.35.199/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视[1920*1080]" group-title="未分类",辽宁卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视[1920*1080]" group-title="未分类",广西卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视[1920*1080]" group-title="未分类",广东卫视[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221226213/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视[1920*1080]" group-title="未分类",甘肃卫视[1920*1080]
+http://39.136.48.26:8089/PLTV/88888888/224/3221226387/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1920*1080]" group-title="未分类",黑龙江卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视[1920*1080]" group-title="未分类",甘肃卫视[1920*1080]
+http://39.134.32.108:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="安徽卫视[1920*1080]" group-title="未分类",安徽卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视[768*576]" group-title="未分类",四川卫视[768*576]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视[1920*1080]" group-title="未分类",天津卫视[1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视[1047*576]" group-title="未分类",贵州卫视[1047*576]
+http://183.207.249.5:80/PLTV/4/224/3221225787/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视[1920*1080]" group-title="未分类",贵州卫视[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225777/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视[1920*1080]" group-title="未分类",贵州卫视[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1
+#EXTINF:-1 tvg-name="贵州卫视[1920*1080]" group-title="未分类",贵州卫视[1920*1080]
+http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视[1920*1080]" group-title="未分类",甘肃卫视[1920*1080]
+http://39.134.32.101:6610/270000001111/1110000158/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="安徽卫视[1920*1080]" group-title="未分类",安徽卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-name="CETV ① 教育[1047*576]" group-title="未分类",CETV ① 教育[1047*576]
+http://111.63.117.13:6060/030000001000/G_CETV-1/G_CETV-1.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1920*1080]" group-title="未分类",安徽卫视[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视[1920*1080]" group-title="未分类",甘肃卫视[1920*1080]
+http://39.134.32.103:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="贵州卫视[1920*1080]" group-title="未分类",贵州卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖北卫视[1920*1080]" group-title="未分类",湖北卫视[1920*1080]
+http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视[1920*1080]" group-title="未分类",贵州卫视[1920*1080]
+http://182.151.211.171:808/hls/64/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视[1920*1080]" group-title="未分类",重庆卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视[1920*1080]" group-title="未分类",贵州卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1 tvg-name="龙江卫视蓝光1[1920*1080]" group-title="未分类",龙江卫视蓝光1[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视超清2[1024*576]" group-title="未分类",宁夏卫视超清2[1024*576]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视[1920*1080]" group-title="未分类",贵州卫视[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225777/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视HD[1920*1080]" group-title="未分类",黑龙江卫视HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1
+#EXTINF:-1 tvg-name="黑龙江卫视FHD[1920*1080]" group-title="未分类",黑龙江卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1920*1080]" group-title="未分类",黑龙江卫视[1920*1080]
+http://182.151.211.171:808/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1920*1080]" group-title="未分类",黑龙江卫视[1920*1080]
+http://39.136.48.7:8089/PLTV/88888888/224/3221226148/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视[768*576]" group-title="未分类",陕西卫视[768*576]
+http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1280*720]" group-title="未分类",安徽卫视[1280*720]
+http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1280*720]" group-title="未分类",黑龙江卫视[1280*720]
+http://117.148.179.162/PLTV/88888888/224/3221231520/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1280*720]" group-title="未分类",安徽卫视[1280*720]
+http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视FHD[1920*1080]" group-title="未分类",黑龙江卫视FHD[1920*1080]
+http://111.63.117.13:6060/030000001000/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1920*1080]" group-title="未分类",黑龙江卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1045_1.m3u8
+#EXTINF:-1 tvg-name="海南卫视[1024*576]" group-title="未分类",海南卫视[1024*576]
+http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视FHD[1920*1080]" group-title="未分类",黑龙江卫视FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1920*1080]" group-title="未分类",黑龙江卫视[1920*1080]
+http://183.207.249.36/PLTV/4/224/3221227323/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1920*1080]" group-title="未分类",黑龙江卫视[1920*1080]
+http://183.207.249.36:80/PLTV/4/224/3221227323/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=188510429838C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABh
+#EXTINF:-1 tvg-name="四川卫视[1920*1080]" group-title="未分类",四川卫视[1920*1080]
+http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1920*1080]" group-title="未分类",黑龙江卫视[1920*1080]
+http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视FHD[1920*1080]" group-title="未分类",黑龙江卫视FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1280*720]" group-title="未分类",安徽卫视[1280*720]
+http://183.207.255.197/live/program/live/ahwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视FHD[1920*1080]" group-title="未分类",黑龙江卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视FHD[1920*1080]" group-title="未分类",黑龙江卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视[1024*576]" group-title="未分类",宁夏卫视[1024*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1920*1080]" group-title="未分类",黑龙江卫视[1920*1080]
+http://111.20.33.93/TVOD/88888893/224/3221226215/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视[768*576]" group-title="未分类",四川卫视[768*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1920*1080]" group-title="未分类",黑龙江卫视[1920*1080]
+http://183.196.25.171:808/hls/79/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视[768*576]" group-title="未分类",内蒙古卫视[768*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视[1920*1080]" group-title="未分类",黑龙江卫视[1920*1080]
+http://183.207.249.36:80/PLTV/4/224/3221227323/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=188510429838C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCKdgU7aIF%2FGe4p1hYzO9%2B1F%2BLXgSQojDUHmpIzd2Xiejw%3D%3D%3A20180401122353%2C18851042983%2C112.25.7.202%2C20180401122353%2CG_HEILONGJIANGHQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C1%2C%2C2%2C2000007279%2C2%2C3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=4364
+#EXTINF:-1 tvg-name="安徽卫视HD[1280*720]" group-title="未分类",安徽卫视HD[1280*720]
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230215/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1920*1080]" group-title="未分类",安徽卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1920*1080]" group-title="未分类",安徽卫视[1920*1080]
+http://183.207.249.9/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视[1920*1080]" group-title="未分类",河北卫视[1920*1080]
+http://183.196.25.171:808/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视HD[1920*1080]" group-title="未分类",安徽卫视HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1
+#EXTINF:-1 tvg-name="河北卫视HD[1920*1080]" group-title="未分类",河北卫视HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1
+#EXTINF:-1 tvg-name="安徽卫视HD[1920*1080]" group-title="未分类",安徽卫视HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视[1920*1080]" group-title="未分类",重庆卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视FHD[1920*1080]" group-title="未分类",安徽卫视FHD[1920*1080]
+http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1920*1080]" group-title="未分类",安徽卫视[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225775/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视[1920*1080]" group-title="未分类",河北卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视[768*576]" group-title="未分类",山西卫视[768*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视[1920*1080]" group-title="未分类",河北卫视[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221225779/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视FHD[1920*1080]" group-title="未分类",安徽卫视FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视[859*480]" group-title="未分类",河北卫视[859*480]
+http://117.148.179.179/PLTV/88888888/224/3221231411/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视[768*576]" group-title="未分类",山西卫视[768*576]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1920*1080]" group-title="未分类",安徽卫视[1920*1080]
+http://183.196.25.171:808/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1920*1080]" group-title="未分类",安徽卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1280*720]" group-title="未分类",安徽卫视[1280*720]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ahwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="河北卫视[1920*1080]" group-title="未分类",河北卫视[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225779/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视HD[1920*1080]" group-title="未分类",安徽卫视HD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视[1920*1080]" group-title="未分类",河北卫视[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225779/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视HD[1920*1080]" group-title="未分类",河北卫视HD[1920*1080]
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1
+#EXTINF:-1 tvg-name="安徽卫视FHD[1920*1080]" group-title="未分类",安徽卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1920*1080]" group-title="未分类",安徽卫视[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221225775/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视[1920*1080]" group-title="未分类",安徽卫视[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225775/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视[1280*720]" group-title="未分类",延边卫视[1280*720]
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视[1280*720]" group-title="未分类",延边卫视[1280*720]
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视[1024*576]" group-title="未分类",吉林卫视[1024*576]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[720*540]" group-title="未分类",浙江卫视[720*540]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://182.151.211.171:808/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225585/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://39.136.48.3:8089/PLTV/88888888/224/3221225585/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+#EXTINF:-1 tvg-name="云南卫视[1920*1080]" group-title="未分类",云南卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 tvg-name="延边卫视[1280*720]" group-title="未分类",延边卫视[1280*720]
+http://live.ybtvyun.com/video/s10006-b316b550fd1f/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://183.207.249.9/PLTV/3/224/3221225544/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1080*1920]" group-title="未分类",浙江卫视[1080*1920]
+http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+#EXTINF:-1 tvg-name="河南卫视[1920*1080]" group-title="未分类",河南卫视[1920*1080]
+http://1.195.111.251:11190/tsfile/live/0139_1.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1280*720]" group-title="未分类",浙江卫视[1280*720]
+http://117.148.179.136/TVOD/88888888/224/3221231567/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视[1920*1080]" group-title="未分类",河南卫视[1920*1080]
+http://183.196.25.171:808/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视HD[853*480]" group-title="未分类",河南卫视HD[853*480]
+http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+#EXTINF:-1 tvg-name="延边卫视[1280*720]" group-title="未分类",延边卫视[1280*720]
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视4K[3840*2160]" group-title="未分类",河南卫视4K[3840*2160]
+http://218.29.135.2:4000/udp/225.1.4.254:1300
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1280*720]" group-title="未分类",浙江卫视[1280*720]
+http://111.40.196.25/PLTV/88888888/224/3221225510/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视[1280*720]" group-title="未分类",延边卫视[1280*720]
+http://live.ybtvyun.com/video/s10006-602e81246858/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1031_1.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视FHD[1920*1080]" group-title="未分类",浙江卫视FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视[1920*1080]" group-title="未分类",重庆卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视FHD[1920*1080]" group-title="未分类",浙江卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视FHD[1920*1080]" group-title="未分类",浙江卫视FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视FHD[1920*1080]" group-title="未分类",浙江卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF:-1 tvg-name="浙江卫视FHD[1920*1080]" group-title="未分类",浙江卫视FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1280*720]" group-title="未分类",浙江卫视[1280*720]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://183.196.25.171:808/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://120.253.104.16:808/hls/106/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://183.207.249.34:80/PLTV/4/224/3221227393/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCJ%2Fb%2BJscnIubeK8XGVHoOOSCX%2BQO3F9WBhfsy%2Ft%2B2PyqQ%3D%3D%3A20180401122600%2C18851042983%2C112.25.7.202%2C20180401122600%2CG_ZHEJIANG-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=4344
+#EXTINF:-1 tvg-name="浙江卫视HD[1920*1080]" group-title="未分类",浙江卫视HD[1920*1080]
+http://39.134.65.175/PLTV/88888888/224/3221225514/1.m3u8
+#EXTINF:-1 tvg-name="重庆卫视[1920*1080]" group-title="未分类",重庆卫视[1920*1080]
+http://117.169.120.132:8080/live/chongqingstv/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1920*1080]" group-title="未分类",浙江卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视FHD[1920*1080]" group-title="未分类",浙江卫视FHD[1920*1080]
+http://39.134.66.2/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视[1920*1080]" group-title="未分类",重庆卫视[1920*1080]
+http://183.196.25.171:808/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视[1280*720]" group-title="未分类",浙江卫视[1280*720]
+http://hw-m-l.cztv.com/channels/lantian/channel01/720p.m3u8
+#EXTINF:-1 tvg-name="重庆卫视[1920*1080]" group-title="未分类",重庆卫视[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视FHD[1920*1080]" group-title="未分类",浙江卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视[1920*1080]" group-title="未分类",重庆卫视[1920*1080]
+http://182.151.211.171:808/hls/63/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视[1920*1080]" group-title="未分类",重庆卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1280*720]" group-title="未分类",江苏卫视[1280*720]
+http://183.207.255.197/live/program/live/jswshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-name="重庆卫视[1920*1080]" group-title="未分类",重庆卫视[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视FHD[1920*1080]" group-title="未分类",江苏卫视FHD[1920*1080]
+http://39.134.66.2/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://39.135.138.60:18890/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://39.136.48.6:8089/PLTV/88888888/224/3221226211/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://183.196.25.171:808/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视FHD[1920*1080]" group-title="未分类",江苏卫视FHD[1920*1080]
+http://39.134.65.208/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221226211/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视FHD[1920*1080]" group-title="未分类",江苏卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视FHD[1920*1080]" group-title="未分类",江苏卫视FHD[1920*1080]
+http://39.134.65.141/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1025_1.m3u8
+#EXTINF:-1 tvg-name="江苏卫视FHD[1920*1080]" group-title="未分类",江苏卫视FHD[1920*1080]
+http://39.134.65.142/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视FHD[1920*1080]" group-title="未分类",江苏卫视FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://182.151.211.171:808/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视FHD[1920*1080]" group-title="未分类",江苏卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视FHD[1920*1080]" group-title="未分类",江苏卫视FHD[1920*1080]
+http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[982*540]" group-title="未分类",江苏卫视[982*540]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="江苏卫视HD[1920*1080]" group-title="未分类",江苏卫视HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1
+#EXTINF:-1 tvg-name="江苏卫视HD[1280*720]" group-title="未分类",江苏卫视HD[1280*720]
+http://117.169.120.136:8080/live/jiangsustv/.m3u8
+#EXTINF:-1 tvg-name="江苏卫视[1920*1080]" group-title="未分类",江苏卫视[1920*1080]
+http://120.253.104.16:808/hls/108/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视[1047*576]" group-title="未分类",西藏卫视[1047*576]
+http://183.207.249.15:80/PLTV/4/224/3221226376/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=fyLe4gOIvMgfwqrEWnunpHmn9mrDriCbwWP4XseyvD6IsIJmP1UxBAq03L3WxNlz%2BAhLv89U3HWKFogUjLcRuU%2BwWipdMTdABhAgmyZ6eCI5lljSJyOmidoZ3llyLsoGkqdcWFBoJjO0y7sc1dF%2B8A%3D%3D%3A20180401124630%2C18851042983%2C112.25.7.203%2C20180401124630%2CG_XIZANG%2C65AE99A50B539A6BEB318A3ECAC9EF70%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
+#EXTINF:-1 tvg-name="江西卫视HD[1280*720]" group-title="未分类",江西卫视HD[1280*720]
+http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1280*720]" group-title="未分类",江西卫视[1280*720]
+http://local.live.jxtvcn.com.cn:80/live-jxtv/tv_jxtv1.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://182.151.211.171:808/hls/60/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://39.136.48.10:8089/PLTV/88888888/224/3221226312/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视FHD[1920*1080]" group-title="未分类",江西卫视FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1042_1.m3u8
+#EXTINF:-1 tvg-name="江西卫视FHD[1920*1080]" group-title="未分类",江西卫视FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视FHD[1920*1080]" group-title="未分类",江西卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="辽宁卫视[1920*1080]" group-title="未分类",辽宁卫视[1920*1080]
+http://117.148.179.152:80/PLTV/88888888/224/3221231802/1.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221226312/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视HD[1280*720]" group-title="未分类",江西卫视HD[1280*720]
+http://117.169.120.136:8080/live/jiangxistv/.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://183.196.25.171:808/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1920*1080]" group-title="未分类",江西卫视[1920*1080]
+http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视FHD[1920*1080]" group-title="未分类",江西卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视FHD[1920*1080]" group-title="未分类",江西卫视FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视[1280*720]" group-title="未分类",江西卫视[1280*720]
+http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+#EXTINF:-1 tvg-name="江西卫视HD[1280*720]" group-title="未分类",江西卫视HD[1280*720]
+http://117.169.120.140:8080/live/jiangxistv/.m3u8
+#EXTINF:-1 tvg-name="江西卫视FHD[1920*1080]" group-title="未分类",江西卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视[1920*1080]" group-title="未分类",辽宁卫视[1920*1080]
+http://39.136.48.8:8089/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视[1920*1080]" group-title="未分类",辽宁卫视[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视[1920*1080]" group-title="未分类",辽宁卫视[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视FHD[1920*1080]" group-title="未分类",辽宁卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视FHD[1920*1080]" group-title="未分类",青海卫视FHD[1920*1080]
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+#EXTINF:-1 tvg-name="辽宁卫视FHD[1920*1080]" group-title="未分类",辽宁卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视[1920*1080]" group-title="未分类",辽宁卫视[1920*1080]
+http://sd.jilu8.cn/3221225789/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视FHD[1920*1080]" group-title="未分类",辽宁卫视FHD[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="内蒙古卫视[1920*1080]" group-title="未分类",内蒙古卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视[1920*1080]" group-title="未分类",辽宁卫视[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视[1920*1080]" group-title="未分类",辽宁卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视HD[1920*1080]" group-title="未分类",辽宁卫视HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视HD[1920*1080]" group-title="未分类",青海卫视HD[1920*1080]
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+#EXTINF:-1 tvg-name="辽宁卫视[1920*1080]" group-title="未分类",辽宁卫视[1920*1080]
+http://183.196.25.171:808/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://39.136.48.6:8089/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视FHD[1920*1080]" group-title="未分类",辽宁卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1280*720]" group-title="未分类",山东卫视[1280*720]
+http://117.148.179.137/TVOD/88888888/224/3221227909/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视[1920*1080]" group-title="未分类",辽宁卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视FHD[785*576]" group-title="未分类",辽宁卫视FHD[785*576]
+http://183.207.249.9/PLTV/3/224/3221225566/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视[1280*720]" group-title="未分类",辽宁卫视[1280*720]
+http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1280*720]" group-title="未分类",山东卫视[1280*720]
+http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视FHD[1920*1080]" group-title="未分类",山东卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视[768*576]" group-title="未分类",陕西卫视[768*576]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1280*720]" group-title="未分类",山东卫视[1280*720]
+http://111.40.196.36/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视[1920*1080]" group-title="未分类",山西卫视[1920*1080]
+http://httpdvb.slave.yqdtv.com:13164/playurl?playtype=live&protocol=http&playtoken=31603YEQXREOPEG10&auth=no&verifycode=14183&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6&programid=4200000133.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://39.135.138.58:18890/PLTV/88888888/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视[1280*720]" group-title="未分类",山西卫视[1280*720]
+http://liveflash.sxrtv.com/live/sxwshd.flv
+#EXTINF:-1 tvg-name="山东卫视FHD[1920*1080]" group-title="未分类",山东卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视[1920*1080]" group-title="未分类",山西卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
+#EXTINF:-1 tvg-name="山东卫视HD[1920*1080]" group-title="未分类",山东卫视HD[1920*1080]
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1
+#EXTINF:-1 tvg-name="山东卫视HD[1280*720]" group-title="未分类",山东卫视HD[1280*720]
+http://111.40.196.9/PLTV/88888888/224/3221225546/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视FHD[1920*1080]" group-title="未分类",山东卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://39.136.48.7:8089/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视[1920*1080]" group-title="未分类",河北卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视HD[1280*720]" group-title="未分类",山东卫视HD[1280*720]
+http://117.169.120.136:8080/live/shandongstv/.m3u8
+#EXTINF:-1 tvg-name="山西卫视[1280*720]" group-title="未分类",山西卫视[1280*720]
+http://liveflash.sxrtv.com/live/sxwshd.flv?bitrate=800000&channel=Shan1XiTV
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://39.136.48.5:8089/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://183.196.25.171:808/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1033_1.m3u8
+#EXTINF:-1 tvg-name="山东卫视FHD[1920*1080]" group-title="未分类",山东卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://182.151.211.171:808/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视[1920*1080]" group-title="未分类",山东卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视FHD[1920*1080]" group-title="未分类",山东卫视FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视[1920*1080]" group-title="未分类",四川卫视[1920*1080]
+http://39.136.48.18:8089/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://182.151.211.171:808/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视FHD[1920*1080]" group-title="未分类",深圳卫视FHD[1920*1080]
+http://183.207.249.37:80/PLTV/4/224/3221227307/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCL1kdVtlk%2BdAabHX7wVbWIRBnzTAy4KU78w1E6NSKcurg%3D%3D%3A20180401122456%2C18851042983%2C112.25.7.202%2C20180401122456%2CG_SHENZHEN-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=4364
+#EXTINF:-1 tvg-name="四川卫视[1920*1080]" group-title="未分类",四川卫视[1920*1080]
+http://39.136.48.6:8089/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视FHD[1920*1080]" group-title="未分类",深圳卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视HD[1920*1080]" group-title="未分类",深圳卫视HD[1920*1080]
+http://39.134.65.164/PLTV/88888888/224/3221225668/1.m3u8
+#EXTINF:-1 tvg-name="天津卫视[1280*720]" group-title="未分类",天津卫视[1280*720]
+http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视HD[1920*1080]" group-title="未分类",深圳卫视HD[1920*1080]
+http://39.134.65.166/PLTV/88888888/224/3221225668/1.m3u8
+#EXTINF:-1 tvg-name="深圳卫视FHD[1920*1080]" group-title="未分类",深圳卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视FHD[1920*1080]" group-title="未分类",深圳卫视FHD[1920*1080]
+http://39.135.138.58:18890/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视[1920*1080]" group-title="未分类",四川卫视[1920*1080]
+http://39.136.48.2:8089/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://183.196.25.171:808/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视FHD[1920*1080]" group-title="未分类",深圳卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://183.207.249.37:80/PLTV/4/224/3221227307/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdAB
+#EXTINF:-1 tvg-name="四川卫视[1920*1080]" group-title="未分类",四川卫视[1920*1080]
+http://182.151.211.171:808/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1280*720]" group-title="未分类",深圳卫视[1280*720]
+http://stream.guihet.com/t/sztv.php?id=1
+#EXTINF:-1 tvg-name="深圳卫视FHD[1920*1080]" group-title="未分类",深圳卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[720*540]" group-title="未分类",深圳卫视[720*540]
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="深圳卫视FHD[1920*1080]" group-title="未分类",深圳卫视FHD[1920*1080]
+http://39.134.116.30:8080/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视[1920*1080]" group-title="未分类",天津卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视[1920*1080]" group-title="未分类",深圳卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视[1920*1080]" group-title="未分类",天津卫视[1920*1080]
+http://182.151.211.171:808/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视[1920*1080]" group-title="未分类",四川卫视[1920*1080]
+http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 tvg-name="陕西卫视[768*576]" group-title="未分类",陕西卫视[768*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视[1920*1080]" group-title="未分类",贵州卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视[1920*1080]" group-title="未分类",天津卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视[1024*576]" group-title="未分类",新疆卫视[1024*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视[1920*1080]" group-title="未分类",重庆卫视[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="北京纪实[1920*1080]" group-title="未分类",北京纪实[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视[1920*1080]" group-title="未分类",天津卫视[1920*1080]
+http://183.196.25.171:808/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视[1920*1080]" group-title="未分类",天津卫视[1920*1080]
+http://39.135.138.58:18890/TVOD/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视[768*576]" group-title="未分类",甘肃卫视[768*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视[1280*720]" group-title="未分类",天津卫视[1280*720]
+http://111.40.196.32/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视FHD[1920*1080]" group-title="未分类",天津卫视FHD[1920*1080]
+http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视[768*576]" group-title="未分类",云南卫视[768*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视[768*576]" group-title="未分类",青海卫视[768*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视[1920*1080]" group-title="未分类",天津卫视[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视FHD[1920*1080]" group-title="未分类",天津卫视FHD[1920*1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视[768*576]" group-title="未分类",广西卫视[768*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视[1920*1080]" group-title="未分类",天津卫视[1920*1080]
+http://39.135.138.60:18890/TVOD/88888910/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-name="上海纪实[1920*1080]" group-title="未分类",上海纪实[1920*1080]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视[1024*576]" group-title="未分类",海南卫视[1024*576]
+http://39.135.138.59:18890/PLTV/88888910/224/3221225722/index.m3u8

@@ -1,0 +1,208 @@
+#EXTM3U
+
+#EXTINF:-1 logo="" group-title="" ,CCTV-1
+http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-1
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-3
+http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-5
+http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-5+
+http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-7
+http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-7
+http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-9
+http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-10
+http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-10
+http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-12
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225556/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-12
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-13
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-13
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-14
+http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-16
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-17
+http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,CCTV-女性时尚
+http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,香港卫视文旅
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 logo="" group-title="" ,HKC 18台
+http://link.sczhgx.com:14819/hls/39/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,HKC电影台
+http://link.sczhgx.com:14819/hls/40/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,HKC体育台
+http://link.sczhgx.com:14819/hls/35/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,HKC新闻台
+http://link.sczhgx.com:14819/hls/33/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳门3
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳门莲花卫视
+http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 logo="" group-title="" ,澳视澳门
+http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视澳门
+http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视葡文
+http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视葡文
+http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视葡文
+http://61.244.22.4/ch2/ch2.live/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视葡文
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视葡文
+http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视葡文
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视葡文
+http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视体育
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视体育
+http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视体育
+http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视卫星
+http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视卫星
+http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视卫星
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视卫星
+http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视信息
+http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视信息
+http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视综艺
+http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视综艺
+http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳视综艺
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
+#EXTINF:-1 logo="" group-title="" ,澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/live.m3u8
+#EXTINF:-1 logo="" group-title="" ,创世电视
+https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
+#EXTINF:-1 logo="" group-title="" ,创世电视
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+#EXTINF:-1 logo="" group-title="" ,点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 logo="" group-title="" ,点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 logo="" group-title="" ,东森财经新闻
+rtmp://59.124.75.138/sat/tv571
+#EXTINF:-1 logo="" group-title="" ,东森电影台
+http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,东森洋片台
+http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
+#EXTINF:-1 logo="" group-title="" ,华视
+rtmp://59.124.75.138/sat/tv111
+#EXTINF:-1 logo="" group-title="" ,华视
+rtmp://59.124.75.157/sat/tv111
+#EXTINF:-1 logo="" group-title="" ,民视
+rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1 logo="" group-title="" ,民视
+rtmp://59.124.75.138/sat/tv051
+#EXTINF:-1 logo="" group-title="" ,台视
+rtmp://59.124.75.157:1935/sat/tv071
+#EXTINF:-1 logo="" group-title="" ,台视
+rtmp://59.124.75.138/sat/tv071
+#EXTINF:-1 logo="" group-title="" ,中视
+rtmp://59.124.75.138/sat/tv091
+#EXTINF:-1 logo="" group-title="" ,TVBS欢乐台
+rtmp://59.124.75.138/sat/tv421
+#EXTINF:-1 logo="" group-title="" ,TVBS欢乐台
+rtmp://59.124.75.138:1935/sat/tv421
+#EXTINF:-1 logo="" group-title="" ,TVBS精采台
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
+#EXTINF:-1 logo="" group-title="" ,TVBS新闻台
+rtmp://59.124.75.138/sat/tv551
+#EXTINF:-1 logo="" group-title="" ,TVBS新闻台
+rtmp://59.124.75.157:1935/sat/tv551
+#EXTINF:-1 logo="" group-title="" ,东森财经新闻台
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,东森新闻
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,华视新闻
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,寰宇新闻台
+http://seb.sason.top/sc/hyxw.m3u8
+#EXTINF:-1 logo="" group-title="" ,民视
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 logo="" group-title="" ,民视第一台
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 logo="" group-title="" ,民视旅游台
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 logo="" group-title="" ,民视台湾台
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 logo="" group-title="" ,民视新闻台
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,民视影剧台
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 logo="" group-title="" ,民视综艺台
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 logo="" group-title="" ,三立iNews新闻
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,三立Live新闻
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,台视新闻
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,中视新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,TVBS新闻
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 logo="" group-title="" ,东方卫视
+http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,东方卫视
+http://39.134.66.110/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,东方卫视
+http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,湖北卫视
+http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,湖北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,湖南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,湖南卫视
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,湖南卫视
+http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,江苏卫视
+http://39.134.66.110/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,江苏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,江苏卫视
+http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,金鹰纪实
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226064/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 logo="" group-title="" ,深圳卫视
+http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,深圳卫视
+http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,深圳卫视
+http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
