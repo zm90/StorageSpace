@@ -1,6 +1,5 @@
 {
-"uuid":"e24b4542-ce5d-4625-b2cb-e40429945328",
-"json":[{
+“vod":[{
 "type":0,
 "name":"唐人街",
 "api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
@@ -27,6 +26,7 @@
 },{
 "type":8,
 "name":"肉视频",
+"webSite": "https://rou.video/",
 "api":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/rou.json"
 },{
 "type":8,
