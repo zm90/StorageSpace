@@ -44,6 +44,6 @@
       "type": 1,
       "name": "1080资源库",
       "api": "https://api.1080zyku.com/inc/apijson.php"
-    },
+    }
     ]
 }
