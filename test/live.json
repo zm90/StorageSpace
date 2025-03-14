@@ -59,6 +59,18 @@
             "url": "http://adultiptv.net/videos.m3u8",
             "type": 10,
             "remark": "http://adultiptv.net"
+        },
+        {
+            "name": "直播(YueChan)",
+            "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u",
+            "type": 10,
+            "remark": "https://github.com/YueChan/Live/blob/main/Adult.m3u"
+        },
+        {
+            "name": "空()",
+            "url": "",
+            "type": 10,
+            "remark": ""
         }
     ]
 }
