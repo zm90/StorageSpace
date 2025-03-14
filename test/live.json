@@ -49,10 +49,58 @@
             "remark": "https://adultiptv-hd.com"
         },
         {
+            "name": "直播(adultiptv)",
+            "url": "https://raw.githubusercontent.com/reklamalinir/freeadultiptv/master/live_adult_channels.m3u",
+            "type": 10,
+            "remark": "http://adultiptv.net"
+        },
+        {
+            "name": "直播(Livecams)",
+            "url": "https://live.adultiptv.net/livecams.m3u8",
+            "type": 10,
+            "remark": "https://github.com/reklamalinir/freeadultiptv"
+        },
+        {
+            "name": "直播(Milf)",
+            "url": "https://cdn.redtraffic.net/milf.m3u8",
+            "type": 10,
+            "remark": "https://github.com/reklamalinir/freeadultiptv"
+        },
+        {
             "name": "点播(adultiptv)",
             "url": "http://adultiptv.net/videos.m3u8",
             "type": 10,
             "remark": "http://adultiptv.net"
+        },
+        {
+            "name": "直播(国家)",
+            "url": "https://raw.githubusercontent.com/Free-IPTV/Countries/master/ZZ_PLAYLIST_ALL_TV.m3u",
+            "type": 10,
+            "remark": "https://github.com/reklamalinir/Countries"
+        },
+        {
+            "name": "直播(XXX)",
+            "url": "https://raw.githubusercontent.com/ipalm1/iptv_lust/refs/heads/master/XXX",
+            "type": 10,
+            "remark": "https://github.com/ipalm1/iptv_lust/blob/master/XXX"
+        },
+        {
+            "name": "直播(Sports)",
+            "url": "https://raw.githubusercontent.com/ipalm1/iptv_lust/refs/heads/master/sports",
+            "type": 10,
+            "remark": "https://github.com/ipalm1/iptv_lust/blob/master/sports"
+        },
+        {
+            "name": "直播(ADULT)",
+            "url": "https://raw.githubusercontent.com/reklamalinir/M3U-1/refs/heads/master/m3u%20playlists/ADULT.m3u",
+            "type": 10,
+            "remark": "https://github.com/reklamalinir/M3U-1/blob/master/m3u%20playlists/ADULT.m3u"
+        },
+        {
+            "name": "直播(adult)",
+            "url": "https://raw.githubusercontent.com/reklamalinir/myIPTVchannels/refs/heads/master/adult.m3u",
+            "type": 10,
+            "remark": "https://github.com/reklamalinir/myIPTVchannels/blob/master/adult.m3u"
         }
     ]
 }
