@@ -49,13 +49,13 @@
             "remark": "https://adultiptv-hd.com"
         },
         {
-            "name": "直播(adultiptv)",
+            "name": "直播(Adultiptv)",
             "url": "https://raw.githubusercontent.com/reklamalinir/freeadultiptv/master/live_adult_channels.m3u",
             "type": 10,
             "remark": "http://adultiptv.net"
         },
         {
-            "name": "点播(adultiptv)",
+            "name": "点播(Adultiptv)",
             "url": "http://adultiptv.net/videos.m3u8",
             "type": 10,
             "remark": "http://adultiptv.net"
@@ -65,6 +65,18 @@
             "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u",
             "type": 10,
             "remark": "https://github.com/YueChan/Live/blob/main/Adult.m3u"
+        },
+        {
+            "name": "点播(Zeee-u)",
+            "url": "https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
+            "type": 10,
+            "remark": "https://github.com/zeee-u/lzh06"
+        },
+        {
+            "name": "点播(MyList)",
+            "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/playlist.m3u",
+            "type": 10,
+            "remark": "mygithub"
         },
         {
             "name": "空()",
