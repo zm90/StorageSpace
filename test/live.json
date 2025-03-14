@@ -1,10 +1,58 @@
 {
     "live": [
         {
-            "name": "Adultiptv-hd直播",
+            "name": "直播汇总(Adultiptv-hd)",
             "url": "https://adultiptv-hd.com/access85964.m3u",
             "type": 10,
             "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Mycamtv)",
+            "url": "https://iptvmate.net/livecams/mycamtv.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Cam4)",
+            "url": "https://iptvmate.net/livecams/cam4.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Camsoda)",
+            "url": "https://iptvmate.net/livecams/camsoda.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Stripchat)",
+            "url": "https://iptvmate.net/livecams/stripchat.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Bongacams)",
+            "url": "https://iptvmate.net/livecams/bongacams.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Chaturbate)",
+            "url": "https://adultiptv.net/livecams/chaturbate.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Redtraffic)",
+            "url": "http://adultiptv-hd.com/channel/redtraffic.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "点播(adultiptv)",
+            "url": "http://adultiptv.net/videos.m3u8",
+            "type": 10,
+            "remark": "http://adultiptv.net"
         }
     ]
 }
