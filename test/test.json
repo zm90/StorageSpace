@@ -644,6 +644,21 @@
       "type": 0,
       "name": "天空云",
       "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8"
-    }
+    },
+{"key":"çˆ±å¥‡è‰º","name":"ğŸ¥�çˆ±å¥‡è‰ºâ”ƒå®˜ç½‘","type":4,"api":"http://home.jundie.top:666/psp/iqiyi.php?key=signTest","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"è…¾è®¯","name":"ğŸ�§è…¾è®¯â”ƒå®˜ç½‘","type":4,"api":"http://home.jundie.top:666/psp/qq.php?key=signTest","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"ä¼˜é…·","name":"ğŸ‘‘ä¼˜é…·â”ƒå®˜ç½‘","type":4,"api":"http://home.jundie.top:666/psp/youku.php?key=signTest","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_douban","name":"影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4a","name":"📡T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4聚合","name":"🎯T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"桉t4","name":"豆瓣榜单（桉T4）","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=6","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://ju990c.i996.me/TS/token.json&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4_搜片","name":"📡搜片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"感谢桉佬","name":"按佬T4┃搜索","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,gitcafe,onelist&timeout=5","searchable":1,"quickSearch":1,"filterable":0}
+
     ]
 }
