@@ -1,5 +1,5 @@
 
-## 直播源
-https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/hsck-playlist.m3u
-## 测试json
+## 直播源扩展
+https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/test/live.json
+## 收集扩展
 https://raw.githubusercontent.com/zm90/StorageSpace/main/test/teat.json
