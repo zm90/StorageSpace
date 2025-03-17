@@ -73,11 +73,17 @@
             "remark": "https://github.com/zeee-u/lzh06"
         },
         {
-            "name": "点播(MyList)",
+            "name": "点播(hsck)",
             "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/hsck-playlist.m3u",
             "type": 10,
             "remark": "mygithub"
         },
+        {
+            "name": "点播(1080)",
+            "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/1080-playlist.m3u",
+            "type": 10,
+            "remark": "mygithub"
+        }
         {
             "name": "空()",
             "url": "",
