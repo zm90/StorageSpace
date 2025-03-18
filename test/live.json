@@ -119,6 +119,18 @@
             "url": "https://raw.githubusercontent.com/tushen6/James/main/Jav/fly0628.txt",
             "type": 10,
             "remark": "github.com/tushen6/James/tree/main/Jav"
+        },
+        {
+            "name": "点播(tianya7981-0118)",
+            "url": "https://raw.githubusercontent.com/tianya7981/jiekou/main/0118.txt",
+            "type": 10,
+            "remark": "github.com/tianya7981/jiekou/tree/main"
+        },
+        {
+            "name": "点播(tianya7981-0119)",
+            "url": "https://raw.githubusercontent.com/tianya7981/jiekou/main/0119",
+            "type": 10,
+            "remark": "github.com/tianya7981/jiekou/tree/main"
         }
     ]
 }
