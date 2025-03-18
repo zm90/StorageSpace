@@ -85,10 +85,10 @@
             "remark": "mygithub"
         }
         {
-            "name": "空()",
-            "url": "",
+            "name": "点播(atsushi444)",
+            "url": "https://raw.githubusercontent.com/atsushi444/iptv/main/整理/adult.txt",
             "type": 10,
-            "remark": ""
+            "remark": "github.com/atsushi444/iptv/blob/main/整理/adult.txt"
         }
     ]
 }
