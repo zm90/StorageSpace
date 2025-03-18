@@ -131,6 +131,72 @@
             "url": "https://raw.githubusercontent.com/tianya7981/jiekou/main/0119",
             "type": 10,
             "remark": "github.com/tianya7981/jiekou/tree/main"
+        },
+        {
+            "name": "点播(kan31467-13613)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/18-13613.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-18tv)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/18tv.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-A )",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/A.m3u",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-AB18)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/AB18.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-VIP)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/VIP.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-xx18)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/xx18.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-爬虫)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/%E7%88%AC%E8%99%ABH%E5%B0%84%E4%BB%93%E5%BA%93%E6%BA%90.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-se18)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/%E8%89%B218.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(netlify)",
+            "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
+            "type": 10,
+            "remark": "https://cyuan.netlify.app"
+        },
+        {
+            "name": "点播(netlify)",
+            "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+%E5%8D%83%E9%83%A8%E7%8B%AC%E5%AE%B6%E4%BC%A0%E5%AA%92%E6%97%A0%E6%B0%B4%E5%8D%B0%E6%9D%A5%E8%A2%ADtvlist.txt",
+            "type": 10,
+            "remark": "https://cyuan.netlify.app"
+        },
+        {
+            "name": "点播(netlify)",
+            "url": "https://raw.githubusercontent.com/czy19950220/yuan.github.io/main/tvbox/lives/18%2B/18%2B2023.txt",
+            "type": 10,
+            "remark": "https://cyuan.netlify.app"
         }
     ]
 }
