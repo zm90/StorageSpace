@@ -83,12 +83,18 @@
             "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/1080-playlist.m3u",
             "type": 10,
             "remark": "mygithub"
-        }
+        },
         {
-            "name": "点播(atsushi444)",
+            "name": "点播(atsushi444-A)",
             "url": "https://raw.githubusercontent.com/atsushi444/iptv/main/整理/adult.txt",
             "type": 10,
             "remark": "github.com/atsushi444/iptv/blob/main/整理/adult.txt"
+        },
+        {
+            "name": "点播(atsushi444-S)",
+            "url": "https://raw.githubusercontent.com/atsushi444/iptv/main/整理/svip.txt",
+            "type": 10,
+            "remark": "github.com/atsushi444/iptv/blob/main/整理"
         }
     ]
 }
