@@ -95,6 +95,30 @@
             "url": "https://raw.githubusercontent.com/atsushi444/iptv/main/整理/svip.txt",
             "type": 10,
             "remark": "github.com/atsushi444/iptv/blob/main/整理"
+        },
+        {
+            "name": "点播(tushen6-18)",
+            "url": "https://raw.githubusercontent.com/tushen6/James/main/Jav/18.txt",
+            "type": 10,
+            "remark": "github.com/tushen6/James/tree/main/Jav"
+        },
+        {
+            "name": "点播(tushen6-18+)",
+            "url": "https://raw.githubusercontent.com/tushen6/James/main/Jav/18➕.txt",
+            "type": 10,
+            "remark": "github.com/tushen6/James/tree/main/Jav"
+        },
+        {
+            "name": "点播(tushen6-fly)",
+            "url": "https://raw.githubusercontent.com/tushen6/James/main/Jav/fly.txt",
+            "type": 10,
+            "remark": "github.com/tushen6/James/tree/main/Jav"
+        },
+        {
+            "name": "点播(tushen6-fly0628)",
+            "url": "https://raw.githubusercontent.com/tushen6/James/main/Jav/fly0628.txt",
+            "type": 10,
+            "remark": "github.com/tushen6/James/tree/main/Jav"
         }
     ]
 }
