@@ -50,7 +50,7 @@ http://live.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
 http://live.adultiptv.net/asian.m3u8
 
-#EXTINF:-1 ,tvg-logo="",group-title="OXAX",OH-AH
+#EXTINF:-1 group-title="OXAX",OH-AH
 https://s.oxax.tv/a4OBl3MrdXPq3vN0sglROA/1/1744103474/index.m3u8
 https://s.oxax.tv/1/index.m3u8?k=1744090302p801i16i152i74S6338627d48c54c39d295fed8b625f15f
 #EXTINF:-1 ,tvg-logo="",group-title="OXAX",CineMan-XXX1
