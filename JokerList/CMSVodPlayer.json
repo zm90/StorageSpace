@@ -155,6 +155,45 @@
     "url" : "https://fqzy.me/"
   },
   {
+	 "name": "[test]香奶儿资源",
+	"api": "https://www.gdlsp.com/api/json.php",
+	"url" : ""
+  },
+  {
+	 "name": "[test]白嫖资源",
+	"api": "https://www.kxgav.com/api/json.php",
+	"url" : ""
+  },
+  {
+	 "name": "[test]美少女资源",
+	"api": "https://www.msnii.com/api/json.php"
+  },
+  {
+	 "name": "[test]淫水机资源",
+	"api": "https://www.xrbsp.com/api/json.php"
+  },
+  {
+	 "name": "[test]痴汉队长",
+	"api": "https://javcaptain.com/api.php/provide/vod/"
+  },
+  {
+        "name": "[test]91麻豆",
+        "api": "https://91md.me/api.php/provide/vod/"
+  },
+  {
+        "name": "[test]易看资源",
+        "api": "https://api.yikanapi.com/api.php/provide/vod/"
+  },
+  {
+        "name": "[test]色南国",
+        "api": "https://api.sexnguon.com/api.php/provide/vod/"
+  },
+  {
+        "name": "[test]AIvin",
+        "api": "http://lbapiby.com/api.php/provide/vod/"
+  },
+  
+  {
     "name" : "[Ⅹ]森林资源",
     "api" : "https://slapibf.com/api.php/provide/vod/?ac=list",
     "url" : "https://senlinzy.com/"
@@ -178,5 +217,10 @@
     "name" : "[Ⅹ]大地资源",
     "api" : "https://dadiapi.com/api.php/provide/vod/",
     "url" : "http://help.shengapi.com/"
+  },
+  {
+    "name" : "[Ⅹ]富二代资源",
+    "api" : "http://bttcj.com/inc/sapi.php?ac=videolist；http://f2dcj6.com/sapi/?ac=videolist",
+    "url" : "https://1118.one"
   }
 ]
