@@ -228,7 +228,7 @@
 	  {
 	    "name" : "[Ⅹ]大地资源",
 	    "type" :101
-	    "api" : "https://dadiapi.com/api.php/provide/vod/"
+	    "api" : "https://dadiapi.com/feifei/"
 	  }
 	],
 	"live": [
