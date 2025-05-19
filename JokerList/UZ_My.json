@@ -229,6 +229,41 @@
 	    "name" : "[Ⅹ]大地资源",
 	    "type" :0,
 	    "api" : "https://dadiapi.com/feifei/"
+	  },
+	  {
+	    "name" : "[Ⅹ]滴滴资源",
+	    "type" :0,
+	    "api" : "https://api.ddapi.cc/api.php/provide/vod/at/json"
+	  },
+	  {
+	    "name" : "[Ⅹ]白嫖资源",
+	    "type" :0,
+	    "api" : "https://www.kxgav.com/api/json.php"
+	  },
+	  {
+	    "name" : "[Ⅹ]M少N资源",
+	    "type" :0,
+	    "api" : "https://www.msnii.com/api/json.php"
+	  },
+	  {
+	    "name" : "[Ⅹ]N香儿资源",
+	    "type" :0,
+	    "api" : "https://zy.hls.one/api.php/provide/vod"
+	  },
+	  {
+	    "name" : "[Ⅹ]H哎V资源",
+	    "type" :0,
+	    "api" : "https://www.pgxdy.com/api/json.php"
+	  },
+	  {
+	    "name" : "[Ⅹ]Jkun资源",
+	    "type" :0,
+	    "api" : "https://jkunzyapi.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[Ⅹ]Y水J资源",
+	    "type" :0,
+	    "api" : "https://www.xrbsp.com/api/json.php"
 	  }
 	],
 	"live": [
