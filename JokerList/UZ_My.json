@@ -1,0 +1,464 @@
+{
+	  "vod": [
+	  {
+	    "name" : "[直]闪电资源",
+	    "type" :101
+	    "api" : "http://sdzyapi.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]光速资源",
+	    "type" :101
+	    "api" : "https://api.guangsuapi.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]优酷资源",
+	    "type" :101
+	    "api" : "https://api.ukuapi.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]量子资源",
+	    "type" :101
+	    "api" : "http://cj.lziapi.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]红牛资源",
+	    "type" :101
+	    "api" : "https://www.hongniuzy2.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]卧龙资源",
+	    "type" :101
+	    "api" : "https://collect.wolongzyw.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]猫咪资源",
+	    "type" :101
+	    "api" : "http://zy.xiaomaomi.cc/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]无尽资源",
+	    "type" :101
+	    "api" : "https://api.wujinapi.cc/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]非凡资源",
+	    "type" :101
+	    "api" : "http://cj.ffzyapi.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]新浪资源",
+	    "type" :101
+	    "api" : "http://api.xinlangapi.com/xinlangapi.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]牛牛资源",
+	    "type" :101
+	    "api" : "https://api.niuniuzy.me/api.php/provide/vod"
+	  },
+	  {
+	    "name" : "[直]豪华资源",
+	    "type" :101
+	    "api" : "https://hhzyapi.com/api.php/provide/vod/at/json"
+	  },
+	  {
+	    "name" : "[直]暴风资源",
+	    "type" :101
+	    "api" : "https://bfzyapi.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]无尽资源",
+	    "type" :101
+	    "api" : "https://api.wujinapi.me/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[翻]魔都资源",
+	    "type" :101
+	    "api" : "https://www.mdzyapi.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[翻]金鹰资源",
+	    "type" :101
+	    "api" : "https://jyzyapi.com/provide/vod"
+	  },
+	  {
+	    "name" : "[翻]艾旦资源",
+	    "type" :101
+	    "api" : "https://lovedan.net/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]乐播资源",
+	    "type" :101
+	    "api" : "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list"
+	  },
+	  {
+	    "name" : "[直]百万资源",
+	    "type" :101
+	    "api" : "https://api.bwzym3u8.com/api.php/provide/vod/at/json/"
+	  },
+	  {
+	    "name" : "[直]丝袜资源",
+	    "type" :101
+	    "api" : "https://siwazyw.tv/api.php/provide/vod/at/json/"
+	  },
+	  {
+	    "name" : "[直]草榴资源",
+	    "type" :101
+	    "api" : "https://www.caoliuzyw.com/api.php/provide/vod/at/json/"
+	  },
+	  {
+	    "name" : "[直]LSP资源",
+	    "type" :101
+	    "api" : "https://apilsbzy1.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[直]X细胞资源",
+	    "type" :101
+	    "api" : "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[直]S猫资源",
+	    "type" :101
+	    "api" : "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[直]NN香资源",
+	    "type" :101
+	    "api" : "https://naixxzy.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[直]155资源",
+	    "type" :101
+	    "api" : "https://155api.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[直]AIvin",
+	    "type" :101
+	    "api" : "http://lbapiby.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[直]91麻豆",
+	    "type" :101
+	    "api" : "https://91md.me/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[翻]GA资源",
+	    "type" :101
+	    "api" : "https://gayapi.com/api.php/provide/vod/at/json"
+	  },
+	  {
+	    "name" : "[翻]桃花资源",
+	    "type" :101
+	    "api" : "https://thzy1.me/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[翻]奥斯卡资源",
+	    "type" :101
+	    "api" : "https://aosikazy.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[翻]玉兔资源",
+	    "type" :101
+	    "api" : "https://apiyutu.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[翻]CK资源",
+	    "type" :101
+	    "api" : "https://ckzy.me/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[翻]hs仓库资源",
+	    "type" :101
+	    "api" : "https://hsckzy.vip/api.php/provide/vod/at/json/"
+	  },
+	  {
+	    "name" : "[翻]精品x资源",
+	    "type" :101
+	    "api" : "https://www.jingpinx.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[翻]番号资源",
+	    "type" :101
+	    "api" : "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list"
+	  },
+	  {
+	    "name" : "[翻]杏吧资源",
+	    "type" :101
+	    "api" : "https://xingba111.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[翻]搜哎V资源",
+	    "type" :101
+	    "api" : "https://api.souavzy.vip/api.php/provide/vod/at/json"
+	  },
+	  {
+	    "name" : "[翻]番茄无水印",
+	    "type" :101
+	    "api" : "https://fqzy.me//api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[翻]易看资源",
+	    "type" :101
+	    "api" : "https://api.yikanapi.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[翻]色南国",
+	    "type" :101
+	    "api" : "https://api.sexnguon.com/api.php/provide/vod/"
+	  },
+	  {
+	    "name" : "[Ⅹ]森林资源",
+	    "type" :101
+	    "api" : "https://slapibf.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[Ⅹ]葡萄无水印",
+	    "type" :101
+	    "api" : "https://caiji.putaozyw.net/inc/apijson_vod.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[Ⅹ]小鸡资源",
+	    "type" :101
+	    "api" : "https://api.xiaojizy.live/provide/vod?ac=list"
+	  },
+	  {
+	    "name" : "[Ⅹ]探探资源",
+	    "type" :101
+	    "api" : "https://apittzy.com/api.php/provide/vod/?ac=list"
+	  },
+	  {
+	    "name" : "[Ⅹ]大地资源",
+	    "type" :101
+	    "api" : "https://dadiapi.com/api.php/provide/vod/"
+	  }
+	],
+	"live": [
+        {
+            "name": "直播汇总(Adultiptv-hd)",
+            "url": "https://adultiptv-hd.com/access85964.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Mycamtv)",
+            "url": "https://iptvmate.net/livecams/mycamtv.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Cam4)",
+            "url": "https://iptvmate.net/livecams/cam4.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Camsoda)",
+            "url": "https://iptvmate.net/livecams/camsoda.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Stripchat)",
+            "url": "https://iptvmate.net/livecams/stripchat.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Bongacams)",
+            "url": "https://iptvmate.net/livecams/bongacams.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Chaturbate)",
+            "url": "https://adultiptv.net/livecams/chaturbate.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Redtraffic)",
+            "url": "http://adultiptv-hd.com/channel/redtraffic.m3u",
+            "type": 10,
+            "remark": "https://adultiptv-hd.com"
+        },
+        {
+            "name": "直播(Adultiptv)",
+            "url": "https://raw.githubusercontent.com/reklamalinir/freeadultiptv/master/live_adult_channels.m3u",
+            "type": 10,
+            "remark": "http://adultiptv.net"
+        },
+        {
+            "name": "点播(Adultiptv)",
+            "url": "http://adultiptv.net/videos.m3u8",
+            "type": 10,
+            "remark": "http://adultiptv.net"
+        },
+        {
+            "name": "点播(ZH_1)",
+            "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/ZH_1.m3u",
+            "type": 10,
+            "remark": "mygithub"
+        },
+        {
+            "name": "点播(ZH_2)",
+            "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/ZH_2.m3u",
+            "type": 10,
+            "remark": "mygithub"
+        },
+        {
+            "name": "点播(ZH_3)",
+            "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/ZH_3.m3u",
+            "type": 10,
+            "remark": "mygithub"
+        },
+        {
+            "name": "点播(ZH_4)",
+            "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/ZH_4.m3u",
+            "type": 10,
+            "remark": "mygithub"
+        },
+        {
+            "name": "点播(ZH_5)",
+            "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/ZH_5.m3u",
+            "type": 10,
+            "remark": "mygithub"
+        },
+        {
+            "name": "点播(HSCK_Series)",
+            "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/HSCK_Series.m3u",
+            "type": 10,
+            "remark": "mygithub"
+        },
+        {
+            "name": "点播(HSCK_All)",
+            "url": "https://raw.githubusercontent.com/zm90/StorageSpace/refs/heads/main/JokerList/HSCK_All.m3u",
+            "type": 10,
+            "remark": "mygithub"
+        },
+        {
+            "name": "直播(YueChan)",
+            "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u",
+            "type": 10,
+            "remark": "https://github.com/YueChan/Live/blob/main/Adult.m3u"
+        },
+        {
+            "name": "点播(Zeee-u)",
+            "url": "https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
+            "type": 10,
+            "remark": "https://github.com/zeee-u/lzh06"
+        },
+        {
+            "name": "点播(atsushi444-A)",
+            "url": "https://raw.githubusercontent.com/atsushi444/iptv/main/整理/adult.txt",
+            "type": 10,
+            "remark": "github.com/atsushi444/iptv/blob/main/整理/adult.txt"
+        },
+        {
+            "name": "点播(atsushi444-S)",
+            "url": "https://raw.githubusercontent.com/atsushi444/iptv/main/整理/svip.txt",
+            "type": 10,
+            "remark": "github.com/atsushi444/iptv/blob/main/整理"
+        },
+        {
+            "name": "点播(tushen6-18)",
+            "url": "https://raw.githubusercontent.com/tushen6/James/main/Jav/18.txt",
+            "type": 10,
+            "remark": "github.com/tushen6/James/tree/main/Jav"
+        },
+        {
+            "name": "点播(tushen6-18+)",
+            "url": "https://raw.githubusercontent.com/tushen6/James/main/Jav/18➕.txt",
+            "type": 10,
+            "remark": "github.com/tushen6/James/tree/main/Jav"
+        },
+        {
+            "name": "点播(tushen6-fly)",
+            "url": "https://raw.githubusercontent.com/tushen6/James/main/Jav/fly.txt",
+            "type": 10,
+            "remark": "github.com/tushen6/James/tree/main/Jav"
+        },
+        {
+            "name": "点播(tushen6-fly0628)",
+            "url": "https://raw.githubusercontent.com/tushen6/James/main/Jav/fly0628.txt",
+            "type": 10,
+            "remark": "github.com/tushen6/James/tree/main/Jav"
+        },
+        {
+            "name": "点播(tianya7981-0118)",
+            "url": "https://raw.githubusercontent.com/tianya7981/jiekou/main/0118.txt",
+            "type": 10,
+            "remark": "github.com/tianya7981/jiekou/tree/main"
+        },
+        {
+            "name": "点播(tianya7981-0119)",
+            "url": "https://raw.githubusercontent.com/tianya7981/jiekou/main/0119",
+            "type": 10,
+            "remark": "github.com/tianya7981/jiekou/tree/main"
+        },
+        {
+            "name": "点播(kan31467-13613)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/18-13613.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-18tv)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/18tv.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-A )",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/A.m3u",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-AB18)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/AB18.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-VIP)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/VIP.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-xx18)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/xx18.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-爬虫)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/%E7%88%AC%E8%99%ABH%E5%B0%84%E4%BB%93%E5%BA%93%E6%BA%90.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(kan31467-se18)",
+            "url": "https://raw.githubusercontent.com/kan31467/mg/main/tv/%E8%89%B218.txt",
+            "type": 10,
+            "remark": "github.com/kan31467/mg/tree/main/tv"
+        },
+        {
+            "name": "点播(netlify)",
+            "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
+            "type": 10,
+            "remark": "https://cyuan.netlify.app"
+        },
+        {
+            "name": "点播(netlify)",
+            "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+%E5%8D%83%E9%83%A8%E7%8B%AC%E5%AE%B6%E4%BC%A0%E5%AA%92%E6%97%A0%E6%B0%B4%E5%8D%B0%E6%9D%A5%E8%A2%ADtvlist.txt",
+            "type": 10,
+            "remark": "https://cyuan.netlify.app"
+        },
+        {
+            "name": "点播(netlify)",
+            "url": "https://raw.githubusercontent.com/czy19950220/yuan.github.io/main/tvbox/lives/18%2B/18%2B2023.txt",
+            "type": 10,
+            "remark": "https://cyuan.netlify.app"
+        }
+    ]
+}
